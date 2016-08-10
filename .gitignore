@@ -1,0 +1,15 @@
+*.pyc
+__pycache__
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+sdist
+
+# Unit test
+.tox
+
+# IDE
+.idea*

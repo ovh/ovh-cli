@@ -1,0 +1,3 @@
+include *.txt *.rst *.in *.ini
+include LICENSE
+recursive-include ovhcli *.py

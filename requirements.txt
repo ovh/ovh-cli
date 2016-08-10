@@ -1,0 +1,4 @@
+ovh==0.4.5
+click==6.6
+colorama==0.3.7
+terminaltables==3.0.0
