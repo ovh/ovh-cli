@@ -28,17 +28,29 @@ Installation
 The OVH Cli works with Python 2.7+ and Python 3.3+.
 
 The easiest way to get the latest stable release is to grab it from `pypi
-<https://pypi.python.org/pypi/ovh-cli>`_ using ``pip``.
+<https://pypi.python.org/pypi/ovhcli>`_ using ``pip`` :
 
 .. code:: bash
 
-    pip install ovh-cli
+    $ pip install ovhcli
 
-Alternatively, you may get latest development version directly from Git.
+Or if you are not using a ``virtualenv`` :
 
 .. code:: bash
 
-    pip install -e git+https://github.com/ovh/ovh-cli.git#egg=ovh-cli
+    $ sudo pip install ovhcli
+
+If you want to upgrade it :
+
+.. code:: bash
+
+    $ pip install --upgrade ovhcli
+
+Alternatively, you may get latest development version directly from Git :
+
+.. code:: bash
+
+    $ pip install -e git+https://github.com/ovh/ovh-cli.git#egg=ovh-cli
 
 Getting started
 ===============
