@@ -16,7 +16,7 @@ readme = open('README.rst').read()
 setup(
     name="ovhcli",
     version=ovhcli.__version__,
-    url='http://github.com/ovh/ovhcli',
+    url='http://github.com/ovh/ovh-cli',
     author='Nicolas Crocfer',
     author_email='nicolas.crocfer@corp.ovh.com',
     description="OVH Command Line Interface",
