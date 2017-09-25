@@ -8,6 +8,9 @@ dist
 build
 sdist
 
+# Environment
+venv
+
 # Unit test
 .tox
 
